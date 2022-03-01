@@ -14,7 +14,7 @@ Code 👨‍💻
 
 ## Layout Desktop 🎨💻
 
-![Layout Desktop](./src/images/layout-desktop.png)
+![Layout Desktop](./src/images/../assets/layout-desktop.png)
 
 ## Layout Mobile 🎨📱
 
