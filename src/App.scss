@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*, input, button {
+    border: none;
+}
+
+li {
+    list-style: none;
+}
+
+body, html, #root {
+    max-width: 100vw;
+    max-height: 100vh;
+    width: 100%;
+    height: 100%;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.content {
+    width: 100vw;
+}
